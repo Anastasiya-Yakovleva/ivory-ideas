@@ -133,6 +133,6 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: anasta0010@gmail.com
+- LinkedIn: -
+- Личный сайт: -
