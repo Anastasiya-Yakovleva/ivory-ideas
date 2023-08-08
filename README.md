@@ -35,7 +35,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p> В Ecxel были очищены и приведены к обему формату данные. Расчитаны основные метрики. Создан калькулятор юнит-экономики. Данные визуализирован в гистограммах.  
 
 
-> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://docs.google.com/presentation/d/1x8IgZ615Y7kr1Kvt_fkOi2MAKFaUz8Fl/edit?usp=sharing&ouid=100877054674694405547&rtpof=true&sd=true)">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
