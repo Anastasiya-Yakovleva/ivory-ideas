@@ -37,6 +37,8 @@
 
 > <a href="https://docs.google.com/spreadsheets/d/1WOTTvgJ6HVKV-iVvc7H2Zz2kKHV3wCB9/edit?usp=sharing&ouid=100877054674694405547&rtpof=true&sd=true">Ссылка на проект1</a>
  (Калькулятор юнит-экономики онлайн-кинотеатра)
+> <a href="https://docs.google.com/presentation/d/1x8IgZ615Y7kr1Kvt_fkOi2MAKFaUz8Fl/edit?usp=sharing&ouid=100877054674694405547&rtpof=true&sd=true">Ссылка на презентацию</a>
+ (Калькулятор юнит-экономики онлайн-кинотеатра)
 
 <p>Выводы (итоги):<p>
 <ol>
